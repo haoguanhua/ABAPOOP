@@ -8,7 +8,7 @@
 *---------------------------------------------------------------------*
 *   This is test program for persist table operation by business key
 *   generation date: 2016.08.14 by user Aaron Hao
-*   NO. 11.01 Aaron Hao 2016/8/4
+*   NO. 11.01  
 *---------------------------------------------------------------------*
 
 REPORT  zrpt_persist_mara_key.
