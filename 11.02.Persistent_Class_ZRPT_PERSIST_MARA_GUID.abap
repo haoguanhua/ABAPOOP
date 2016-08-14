@@ -8,7 +8,7 @@
 *---------------------------------------------------------------------*
 *   This is test program for persist table operation by GUID
 *   generation date: 2016.08.14 by user Aaron Hao
-*   NO. 11.01 Aaron Hao 2016/8/4
+*   NO. 11.02
 *---------------------------------------------------------------------*
 REPORT  zrpt_persist_mara_guid.
 
